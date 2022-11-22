@@ -1,0 +1,15 @@
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Release\license.txt
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Release\themeicon.jpg
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Release\Darkwash Theme.dll
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Release\Darkwash Theme.pdb
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Release\Darkwash Theme.vsix
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Release\extension.vsixmanifest
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\Darkwash Theme.csproj.AssemblyReference.cache
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\_EmptyResource.resources
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\Darkwash Theme.csproj.GenerateResource.cache
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\Darkwash Theme.csproj.CoreCompileInputs.cache
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\Darkwash Theme.dll
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\Darkwash Theme.pdb
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\extension.vsixmanifest
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\files.json
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Release\createTemplateManifests.cache

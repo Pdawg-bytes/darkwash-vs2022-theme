@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\Darkwash Theme.csproj": {}
+  },
+  "projects": {
+    "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\Darkwash Theme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\Darkwash Theme.csproj",
+        "projectName": "Darkwash Theme",
+        "projectPath": "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\Darkwash Theme.csproj",
+        "packagesPath": "C:\\Users\\Pdawg\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pdawg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VisualStudio.VsixColorCompiler": {
+              "target": "Package",
+              "version": "[17.0.31709.430, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Debug\Darkwash Theme.dll
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Debug\Darkwash Theme.pdb
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Debug\Darkwash Theme.vsix
+D:\Source\Working\Darkwash Theme\Darkwash Theme\bin\Debug\extension.vsixmanifest
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\Darkwash Theme.csproj.AssemblyReference.cache
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\_EmptyResource.resources
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\Darkwash Theme.csproj.GenerateResource.cache
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\Darkwash Theme.csproj.CoreCompileInputs.cache
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\Darkwash Theme.dll
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\Darkwash Theme.pdb
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\extension.vsixmanifest
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\files.json
+D:\Source\Working\Darkwash Theme\Darkwash Theme\obj\Debug\createTemplateManifests.cache

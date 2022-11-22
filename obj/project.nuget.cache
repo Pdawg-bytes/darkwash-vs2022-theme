@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMn4+60g8FoJLTfRc2C1CQkTm5S8iMvqAV4dBz46D+CKRc1vjhE1Bhk20jZnzUZZuMmauPaxc6jTroVOXPG1Ag==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\Darkwash Theme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pdawg\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}

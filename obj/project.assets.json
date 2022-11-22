@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+      "sha512": "KvWu1c+84BycFK+76LiX/plgtAXQDWq4wjkzqkmTArGwU/pn4BX2XHMQ+eeuNwy2jt8sU9FhG5zpk4yOKDOL8A==",
+      "type": "package",
+      "path": "microsoft.visualstudio.vsixcolorcompiler/17.0.31709.430",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Microsoft.VisualStudio.Pkgdef.dll",
+        "VsixColorCompiler.exe",
+        "VsixColorCompiler.exe.config",
+        "build/Microsoft.VisualStudio.VsixColorCompiler.targets",
+        "microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512",
+        "microsoft.visualstudio.vsixcolorcompiler.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Microsoft.VisualStudio.VsixColorCompiler >= 17.0.31709.430"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Pdawg\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\Darkwash Theme.csproj",
+      "projectName": "Darkwash Theme",
+      "projectPath": "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\Darkwash Theme.csproj",
+      "packagesPath": "C:\\Users\\Pdawg\\.nuget\\packages\\",
+      "outputPath": "D:\\Source\\Working\\Darkwash Theme\\Darkwash Theme\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Pdawg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Microsoft.VisualStudio.VsixColorCompiler": {
+            "target": "Package",
+            "version": "[17.0.31709.430, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
