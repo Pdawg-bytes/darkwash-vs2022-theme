@@ -15,6 +15,9 @@ To install the theme, download the release ZIP file from releases, then open the
 ![image](https://user-images.githubusercontent.com/83825746/203193863-14596f6d-7f44-4b53-8ce0-c207790ead66.png)
 ![image](https://user-images.githubusercontent.com/83825746/203194156-77ae7260-0155-4ce9-b635-f657b87ab251.png)
 ![image](https://user-images.githubusercontent.com/83825746/203194459-9fb3bb65-d052-43e6-99c3-9e3e3d0ddd57.png)
+![image](https://user-images.githubusercontent.com/83825746/203588712-1ac5ccb2-15b0-4f1b-a01a-2a69e48742ef.png)
+![image](https://user-images.githubusercontent.com/83825746/203588784-be92ad72-07f6-43d2-b747-365c49432089.png)
+
 # Titlebar dynamically changes color based on user action
 Building
 ![image](https://user-images.githubusercontent.com/83825746/203195601-4e5f456e-54e2-4b68-a5aa-d3d94e07b157.png)
