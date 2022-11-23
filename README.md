@@ -3,7 +3,7 @@
 </p>
 
 # darkwash-vs2022-theme
-This is the Darkwash Theme for Visual Studio 2022. It brings in a clean dark mode to rest your eyes, along with shades of purple that fit quite nicely together. Give it a try!
+This is the Darkwash Theme for Visual Studio 2022. It brings in a clean dark mode to rest your eyes, along with shades of purple that fit quite nicely together. Give it a try! In the releases, there is also a Lightwash theme, that theme is the light mode alternative of darkwash. Just note, it's not as nice due to the nature of VS2022 light theme and it being a pain to customize.
 
 # Building
 To build, make sure you have the Visual Studio SDK installed, and then just open the solution and build it!
