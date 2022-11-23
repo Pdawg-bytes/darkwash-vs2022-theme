@@ -1,0 +1,13 @@
+D:\Source\Working\Lightwash Theme\Lightwash Theme\bin\Release\Lightwash Theme.dll
+D:\Source\Working\Lightwash Theme\Lightwash Theme\bin\Release\Lightwash Theme.pdb
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\Lightwash Theme.csproj.AssemblyReference.cache
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\_EmptyResource.resources
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\Lightwash Theme.csproj.GenerateResource.cache
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\Lightwash Theme.csproj.CoreCompileInputs.cache
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\Lightwash Theme.dll
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\Lightwash Theme.pdb
+D:\Source\Working\Lightwash Theme\Lightwash Theme\bin\Release\Lightwash Theme.vsix
+D:\Source\Working\Lightwash Theme\Lightwash Theme\bin\Release\extension.vsixmanifest
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\extension.vsixmanifest
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\files.json
+D:\Source\Working\Lightwash Theme\Lightwash Theme\obj\Release\createTemplateManifests.cache
